@@ -4,7 +4,7 @@
 
 Português · [English](https://github.com/tiagoluterbach/tiagoluterbach/blob/main/README.en.md)
 
-Sou estudante de Ciência da Computação na Universidade Federal Fluminense e estou construindo minha trajetória em ciência de dados. Gosto de aprender de forma estruturada, testar hipóteses e entender o que os dados permitem concluir. A experiência com o Zelo reforçou meu interesse em transformar modelos preditivos em ferramentas úteis para decisões de negócio.
+Sou estudante de Ciência da Computação na Universidade Federal Fluminense e estou construindo minha trajetória em ciência de dados. Gosto de aprender de forma estruturada, testar hipóteses e entender o que os dados permitem concluir. A experiência com o Zelo na Hackaton IA COPEE 2026 reforçou meu interesse em transformar modelos preditivos em ferramentas úteis para decisões de negócio.
 
 ## Projetos
 
