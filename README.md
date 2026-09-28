@@ -9,8 +9,8 @@ Sou estudante de Ciência da Computação na Universidade Federal Fluminense e e
 ## Projetos
 
 - **Zelo** — Sistema de avisos de risco de cortes de geração eólica e solar para o dia seguinte, desenvolvido no Hackathon IA COPPE 2026. Usa dados públicos do ONS e um painel para apoiar o planejamento operacional. Python, scikit-learn e Streamlit. *Repositório privado.*
-- **[PomoLock](https://github.com/tiagoluterbach/pomolock)** — Aplicação que criei a partir do meu interesse por métodos de estudo: Pomodoro, modo hyperfocus, estatísticas em heatmap e sincronização entre dispositivos. Desenvolvida com assistência de IA, usando Next.js, TypeScript e Supabase. [Experimentar a aplicação](https://pomolock.vercel.app).
 - **[F1Data](https://github.com/tiagoluterbach/f1data)** — Estudo inicial de regressão com atributos de pilotos de Fórmula 1 e **corridas simuladas**. Comparei Regressão Linear, KNN e Random Forest com Python e scikit-learn, praticando preparação de dados, validação e análise de erros.
+- **[PomoLock](https://github.com/tiagoluterbach/pomolock)** — Aplicação que criei a partir do meu interesse por métodos de estudo: Pomodoro, modo hyperfocus, estatísticas em heatmap e sincronização entre dispositivos. Desenvolvida com assistência de IA, usando Next.js, TypeScript e Supabase.
 - **[Straw Hat Odyssey](https://github.com/tiagoluterbach/lab-jogos)** — Jogo 2D em Python desenvolvido como projeto final da disciplina Laboratório de Jogos na UFF, com Pygame/PPlay, orientação a objetos e organização de código.
 
 ## Conhecimentos e estudos

@@ -9,8 +9,8 @@ I'm a Computer Science undergraduate at Universidade Federal Fluminense (UFF), b
 ## Projects
 
 - **Zelo** — A next-day curtailment risk alert system for wind and solar generation, developed at Hackathon IA COPPE 2026. It uses public data from Brazil's national grid operator (ONS) and a dashboard to support operational planning. Python, scikit-learn, and Streamlit. *Private repository.*
-- **[PomoLock](https://github.com/tiagoluterbach/pomolock)** — An application inspired by my interest in study methods: a Pomodoro timer, hyperfocus mode, study heatmaps, and cross-device synchronization. Built with AI assistance using Next.js, TypeScript, and Supabase. [Try the application](https://pomolock.vercel.app).
 - **[F1Data](https://github.com/tiagoluterbach/f1data)** — An introductory regression study using Formula 1 driver attributes and **simulated races**. I compared Linear Regression, KNN, and Random Forest with Python and scikit-learn, practicing data preparation, validation, and error analysis.
+- **[PomoLock](https://github.com/tiagoluterbach/pomolock)** — An application inspired by my interest in study methods: a Pomodoro timer, hyperfocus mode, study heatmaps, and cross-device synchronization. Built with AI assistance using Next.js, TypeScript, and Supabase.
 - **[Straw Hat Odyssey](https://github.com/tiagoluterbach/lab-jogos)** — A 2D Python game developed as the final project for the Game Programming Lab course at UFF, using Pygame/PPlay, object-oriented programming, and structured code organization.
 
 ## Skills and learning
