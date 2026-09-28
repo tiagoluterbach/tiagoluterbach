@@ -6,7 +6,7 @@ Português · [English](https://github.com/tiagoluterbach/tiagoluterbach/blob/ma
 
 Sou estudante de Ciência da Computação na Universidade Federal Fluminense e estou construindo minha trajetória em ciência de dados. Gosto de aprender de forma estruturada, testar hipóteses e entender o que os dados permitem concluir. A experiência com o Zelo reforçou meu interesse em transformar modelos preditivos em ferramentas úteis para decisões de negócio.
 
-## Projeto em destaque · Zelo
+## Zelo
 
 **Avisos de risco de cortes de geração eólica e solar para o dia seguinte.**
 
