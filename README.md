@@ -18,7 +18,3 @@ Sou estudante de Ciência da Computação na Universidade Federal Fluminense e e
 **Dados e programação:** Python, pandas, NumPy, scikit-learn, SQL, Matplotlib e Git/GitHub.
 
 Continuo aprofundando estatística, álgebra linear, validação de modelos e redes neurais. Tenho interesse em métodos de aprendizagem e em manter uma rotina de estudo que se traduza em experimentos e projetos.
-
-## Experiência e contato
-
-Na **SmartTel Jr**, empresa júnior, atuei na área financeira, chegando à diretoria, com responsabilidades em orçamento, precificação, análise de viabilidade e organização da equipe.
