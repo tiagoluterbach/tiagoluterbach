@@ -6,27 +6,12 @@ Português · [English](https://github.com/tiagoluterbach/tiagoluterbach/blob/ma
 
 Sou estudante de Ciência da Computação na Universidade Federal Fluminense e estou construindo minha trajetória em ciência de dados. Gosto de aprender de forma estruturada, testar hipóteses e entender o que os dados permitem concluir. A experiência com o Zelo reforçou meu interesse em transformar modelos preditivos em ferramentas úteis para decisões de negócio.
 
-## Zelo
+## Projetos
 
-**Avisos de risco de cortes de geração eólica e solar para o dia seguinte.**
-
-Desenvolvido em equipe no **Hackathon IA COPPE 2026**, o Zelo conecta dados públicos do ONS a um painel de apoio ao planejamento operacional. A entrega concentra-se em identificar janelas de risco, mostrar períodos sem alerta e contextualizar os avisos com o histórico da usina.
-
-Minha contribuição reuniu três frentes:
-
-- **Experimentação:** avaliei redes temporais (GRU) como alternativa para prever o volume de energia cortada, comparando seu desempenho com referências existentes. A rede não mostrou ganho consistente para substituir a abordagem avaliada.
-- **Organização:** organizei responsabilidades e o alinhamento entre as frentes da equipe para reduzir sobreposição de tarefas.
-- **Comunicação:** estruturei o pitch e preparei os slides da apresentação final, conectando problema, solução e evidências.
-
-Na avaliação histórica da equipe, de **1 a 24 de setembro de 2026**, a precisão dos alertas foi de **82% para eólica e 81% para solar**, por usina e intervalo de 30 minutos. O produto final prioriza avisos de ocorrência; o experimento de volume fez parte da investigação.
-
-[Explorar o estudo de caso →](https://github.com/tiagoluterbach/tiagoluterbach/blob/main/docs/zelo.md) · Código da equipe em repositório privado.
-
-## Outros projetos
-
+- **Zelo** — Sistema de avisos de risco de cortes de geração eólica e solar para o dia seguinte, desenvolvido no Hackathon IA COPPE 2026. Usa dados públicos do ONS e um painel para apoiar o planejamento operacional. Python, scikit-learn e Streamlit. *Repositório privado.*
 - **[PomoLock](https://github.com/tiagoluterbach/pomolock)** — Aplicação que criei a partir do meu interesse por métodos de estudo: Pomodoro, modo hyperfocus, estatísticas em heatmap e sincronização entre dispositivos. Desenvolvida com assistência de IA, usando Next.js, TypeScript e Supabase. [Experimentar a aplicação](https://pomolock.vercel.app).
 - **[F1Data](https://github.com/tiagoluterbach/f1data)** — Estudo inicial de regressão com atributos de pilotos de Fórmula 1 e **corridas simuladas**. Comparei Regressão Linear, KNN e Random Forest com Python e scikit-learn, praticando preparação de dados, validação e análise de erros.
-- **[Laboratório de Jogos](https://github.com/tiagoluterbach/lab-jogos)** — Projetos acadêmicos em Python, incluindo **Straw Hat Odyssey**, com Pygame/PPlay, orientação a objetos e organização de código.
+- **[Straw Hat Odyssey](https://github.com/tiagoluterbach/lab-jogos)** — Jogo 2D em Python desenvolvido como projeto final da disciplina Laboratório de Jogos na UFF, com Pygame/PPlay, orientação a objetos e organização de código.
 
 ## Conhecimentos e estudos
 
@@ -38,4 +23,4 @@ Continuo aprofundando estatística, álgebra linear, validação de modelos e re
 
 Na **SmartTel Jr**, empresa júnior, atuei na área financeira, chegando à diretoria, com responsabilidades em orçamento, precificação, análise de viabilidade e organização da equipe.
 
-**[Vamos conversar no LinkedIn](https://www.linkedin.com/in/tiagoluterbachmedeiros/)** · Português nativo · Inglês avançado
+[LinkedIn](https://www.linkedin.com/in/tiagoluterbachmedeiros/)
