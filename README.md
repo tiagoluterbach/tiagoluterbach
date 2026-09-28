@@ -22,5 +22,3 @@ Continuo aprofundando estatística, álgebra linear, validação de modelos e re
 ## Experiência e contato
 
 Na **SmartTel Jr**, empresa júnior, atuei na área financeira, chegando à diretoria, com responsabilidades em orçamento, precificação, análise de viabilidade e organização da equipe.
-
-[LinkedIn](https://www.linkedin.com/in/tiagoluterbachmedeiros/)
